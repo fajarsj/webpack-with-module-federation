@@ -13,5 +13,5 @@ app.get("*", function (req, res) {
 });
 
 app.listen(9000, function () {
-  console.log("Apllication is running on http://localhost:9000");
+  console.log("Application is running on http://localhost:9000");
 });
