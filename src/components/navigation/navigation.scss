@@ -1,0 +1,22 @@
+.navigation {
+  border: 2px solid #adaec3;
+  margin: 10px;
+  border-radius: 6px;
+  padding: 0;
+  min-height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  li {
+    padding: 20px;
+    list-style: none;
+    display: inline-block;
+
+    a {
+      text-decoration: none;
+      font-size: 20px;
+      color: white;
+    }
+  }
+}

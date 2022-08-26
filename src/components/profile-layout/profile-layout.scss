@@ -1,0 +1,18 @@
+.profile-layout {
+  margin: 10px;
+  border: 2px solid #adaec3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  min-height: calc(100vh - 220px);
+}
+
+.profile-layout__title {
+  color: #fff;
+}
+
+.profile-layout__subtitle {
+  font-size: 16px;
+  color: #fff;
+}
